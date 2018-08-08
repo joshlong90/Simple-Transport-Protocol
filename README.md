@@ -1,1 +1,2 @@
 # Simple-Transport-Protocol
+The simple transport protocol project aims to transmit data using UDP while implementing the reliable transport features of TCP. The project consists of sender and reciever components that allow for reliable unidirectional data transfer. The reliable transport features include sequence numbers, acknowledgments, three-way handshake, four-segment connection termination, buffering for out of order packets, timeout and fast-retransmit.
